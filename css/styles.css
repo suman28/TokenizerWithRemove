@@ -1,0 +1,32 @@
+.chip_maroon,
+.chip_green,
+.chip_blue,
+.chip_yellow {
+   /* display: inline-block;
+    height: 32px;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, .6);
+    line-height: 32px;
+    padding: 0 12px;
+    border-radius: 16px;
+    margin-top: 0px !important;*/
+    color:white !important;
+    border-radius: 5px;
+}
+
+.chip_maroon {
+    background-color: maroon !important;
+}
+
+.chip_green {
+    background-color: green !important;
+}
+
+.chip_blue {
+    background-color: blue !important;
+}
+
+.chip_yellow {
+    background-color: yellow !important;
+}

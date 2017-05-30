@@ -1,0 +1,337 @@
+{
+    "records": [{
+            "KEYWORD": "GREATER THAN"
+        },
+        {
+            "KEYWORD": "LESS THAN"
+        },
+        {
+            "KEYWORD": "RANGE"
+        },
+        {
+            "KEYWORD": "BY"
+        },
+        {
+            "KEYWORD": "IS FROM"
+        },
+        {
+            "KEYWORD": "IS BETWEEN"
+        },
+        {
+            "KEYWORD": "RANGE FROM"
+        },
+        {
+            "KEYWORD": "RANGE IS"
+        },
+        {
+            "KEYWORD": "AS WELL AS"
+        },
+        {
+            "KEYWORD": "AND ALSO"
+        },
+        {
+            "KEYWORD": "ALSO"
+        },
+        {
+            "KEYWORD": "IN ADDITION"
+        },
+        {
+            "KEYWORD": "FOLLOWED BY"
+        },
+        {
+            "KEYWORD": "NEXT TO"
+        },
+        {
+            "KEYWORD": "WITH"
+        },
+        {
+            "KEYWORD": "ALONG WITH"
+        },
+        {
+            "KEYWORD": "MAX"
+        },
+        {
+            "KEYWORD": "MIN"
+        },
+        {
+            "KEYWORD": "IS HIGHEST"
+        },
+        {
+            "KEYWORD": "IS LOWEST"
+        },
+        {
+            "KEYWORD": "WHAT IS MAX"
+        },
+        {
+            "KEYWORD": "WHAT IS MIN"
+        },
+        {
+            "KEYWORD": "IS LESS THAN"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN"
+        },
+        {
+            "KEYWORD": "RANGE IN"
+        },
+        {
+            "KEYWORD": "WHAT IS THE MAXIMUM"
+        },
+        {
+            "KEYWORD": "WHAT IS THE MINIMUM"
+        },
+        {
+            "KEYWORD": "HIGH"
+        },
+        {
+            "KEYWORD": "LOW"
+        },
+        {
+            "KEYWORD": "IS HIGH"
+        },
+        {
+            "KEYWORD": "IS LOW"
+        },
+        {
+            "KEYWORD": "MAXIMUM"
+        },
+        {
+            "KEYWORD": "MINIMUM"
+        },
+        {
+            "KEYWORD": "WITH HIGHEST"
+        },
+        {
+            "KEYWORD": "WITH LOWEST"
+        },
+        {
+            "KEYWORD": "MAX OF"
+        },
+        {
+            "KEYWORD": "MIN OF"
+        },
+        {
+            "KEYWORD": "IS MAX"
+        },
+        {
+            "KEYWORD": "IS MAXIMUM"
+        },
+        {
+            "KEYWORD": "IS MIN"
+        },
+        {
+            "KEYWORD": "IS MINIMUM"
+        },
+        {
+            "KEYWORD": "ORDERBY HIGHEST"
+        },
+        {
+            "KEYWORD": "ORDER BY HIGHEST"
+        },
+        {
+            "KEYWORD": "HIGHEST ORDERBY"
+        },
+        {
+            "KEYWORD": "HIGHEST ORDER BY"
+        },
+        {
+            "KEYWORD": "ORDERBY LOWEST"
+        },
+        {
+            "KEYWORD": "ORDER BY LOWEST"
+        },
+        {
+            "KEYWORD": "LOWEST ORDERBY"
+        },
+        {
+            "KEYWORD": "LOWEST ORDER BY"
+        },
+        {
+            "KEYWORD": "IN DESC"
+        },
+        {
+            "KEYWORD": "IN DESCENDING"
+        },
+        {
+            "KEYWORD": "IS IN DESC"
+        },
+        {
+            "KEYWORD": "IS IN DESCENDING"
+        },
+        {
+            "KEYWORD": "IN ASC"
+        },
+        {
+            "KEYWORD": "IN ASCENDING"
+        },
+        {
+            "KEYWORD": "IS IN ASC"
+        },
+        {
+            "KEYWORD": "IS IN ASCENDING"
+        },
+        {
+            "KEYWORD": "SORTED BY"
+        },
+        {
+            "KEYWORD": "SORT BY"
+        },
+        {
+            "KEYWORD": "IS LESS THAN EQUAL"
+        },
+        {
+            "KEYWORD": "IS LESS THAN EQ"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN EQUAL"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN EQ"
+        },
+        {
+            "KEYWORD": "IS LESS THAN OR EQUAL"
+        },
+        {
+            "KEYWORD": "IS LESS THAN OR EQ"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN OR EQUAL"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN OR EQ"
+        },
+        {
+            "KEYWORD": "IS LESS THAN OR EQUAL TO"
+        },
+        {
+            "KEYWORD": "IS LESS THAN OR EQ TO"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN OR EQUAL TO"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN OR EQ TO"
+        },
+        {
+            "KEYWORD": "IS EQUAL"
+        },
+        {
+            "KEYWORD": "EQUAL TO"
+        },
+        {
+            "KEYWORD": "EQUALTO"
+        },
+        {
+            "KEYWORD": "EMP CODE"
+        },
+        {
+            "KEYWORD": "FROM"
+        },
+        
+        {
+            "KEYWORD": "BY LOWEST"
+        },
+        {
+            "KEYWORD": "CONTAINS"
+        },
+        {
+            "KEYWORD": "LIKE"
+        },
+        {
+            "KEYWORD": "AVG"
+        },
+        {
+            "KEYWORD": "AVERAGE"
+        },
+        {
+            "KEYWORD": "AVG OF"
+        },
+        {
+            "KEYWORD": "AVERAGE OF"
+        },
+        {
+            "KEYWORD": "SUM OF"
+        },
+        {
+            "KEYWORD": "COUNT OF"
+        },
+        {
+            "KEYWORD": "EMPLOYEE"
+        },
+        {
+            "KEYWORD": "NUMBER OF"
+        },
+        {
+            "KEYWORD": "EMPLOYEES"
+        },
+        {
+            "KEYWORD": "IS NOT EQUAL TO"
+        },
+        {
+            "KEYWORD": "NOT EQUAL TO"
+        },
+        {
+            "KEYWORD": "NOT EQUAL"
+        },
+        {
+            "KEYWORD": "NAME"
+        },
+        {
+            "KEYWORD": "GREATER THAN"
+        },
+        {
+            "KEYWORD": "LESS THAN"
+        },
+        {
+            "KEYWORD": "IS LESS THAN"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN"
+        },
+        {
+            "KEYWORD": "IS LESS THAN EQUAL"
+        },
+        {
+            "KEYWORD": "IS LESS THAN EQ"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN EQUAL"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN EQ"
+        },
+        {
+            "KEYWORD": "IS LESS THAN OR EQUAL"
+        },
+        {
+            "KEYWORD": "IS LESS THAN OR EQ"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN OR EQUAL"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN OR EQ"
+        },
+        {
+            "KEYWORD": "IS LESS THAN OR EQUAL TO"
+        },
+        {
+            "KEYWORD": "IS LESS THAN OR EQ TO"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN OR EQUAL TO"
+        },
+        {
+            "KEYWORD": "IS GREATER THAN OR EQ TO"
+        },
+        {
+            "KEYWORD": "IS LIKE"
+        },
+        {
+            "KEYWORD": "ALL"
+        },
+        {
+            "KEYWORD": "MORE THAN"
+        }
+    ]
+}
